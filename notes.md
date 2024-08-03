@@ -24,3 +24,4 @@ under [features]
 in std, 
 * "pallet-nicks/std",
 
+Open the runtime/src/lib.rs file in a text editor.
