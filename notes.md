@@ -24,4 +24,9 @@ under [features]
 in std, 
 * "pallet-nicks/std",
 
-Open the runtime/src/lib.rs file in a text editor.
+* Open the runtime/src/lib.rs file in a text editor.
+Locate the Balances pallet and note that it consists of the following implementation (impl)code block:
+
+you can see
+"impl pallet_balances::Config for Runtime...."
+
