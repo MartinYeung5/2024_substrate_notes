@@ -35,4 +35,4 @@ you can see
 construct_runtime! (not in template, should add by own)
 https://paritytech.github.io/polkadot-sdk/master/frame_support/macro.construct_runtime.html
 
-* update 
+* update runtime/src/lib.rs
