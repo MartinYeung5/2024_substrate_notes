@@ -31,3 +31,7 @@ Locate the Balances pallet and note that it consists of the following implementa
 you can see
 "impl pallet_balances::Config for Runtime...."
 
+* important point:
+construct_runtime!
+https://paritytech.github.io/polkadot-sdk/master/frame_support/macro.construct_runtime.html
+
