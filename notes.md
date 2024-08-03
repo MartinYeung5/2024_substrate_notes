@@ -24,6 +24,7 @@ under [features]
 in std, 
 * "pallet-nicks/std",
 
+In this step, only review ( review the Config trait for the Balances pallet)
 * Open the runtime/src/lib.rs file in a text editor.
 Locate the Balances pallet and note that it consists of the following implementation (impl)code block:
 
