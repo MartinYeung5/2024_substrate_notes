@@ -32,6 +32,6 @@ you can see
 "impl pallet_balances::Config for Runtime...."
 
 * important point:
-construct_runtime!
+construct_runtime! (not in template, should add by own)
 https://paritytech.github.io/polkadot-sdk/master/frame_support/macro.construct_runtime.html
 
