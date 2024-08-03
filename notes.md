@@ -2,6 +2,17 @@
 
 The Build application logic tutorials focus on how you can customize the runtime using pallets, including how to add simple and complex pallets to the runtime and how to use pallets in combination with smart contracts.
 
+## Build a local blockchain
+1. open ubuntu
+2. git clone https://github.com/substrate-developer-hub/substrate-node-template
+3. cd substrate-node-template
+4. cargo build --release
+5. ./target/release/node-template --dev
+6. go back window vscode
+git clone https://github.com/substrate-developer-hub/substrate-front-end-template
+7. yarn install
+8. yarn start
+
 ## Add a pallet to the runtime
 * https://docs.substrate.io/tutorials/build-application-logic/add-a-pallet/
 
