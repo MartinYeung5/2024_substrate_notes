@@ -17,7 +17,7 @@ git clone https://github.com/substrate-developer-hub/substrate-front-end-templat
 * https://docs.substrate.io/tutorials/build-application-logic/add-a-pallet/
 clone 1 repo
 * git clone https://github.com/substrate-developer-hub/substrate-node-template
-* open the runtime/Cargo.toml
+* update runtime/Cargo.toml
 add pallet-nicks under [dependencies]
 * pallet-nicks = { version = "4.0.0-dev", default-features = false, git = "https://github.com/paritytech/polkadot-sdk.git", branch = "polkadot-v1.0.0" }
 under [features]
