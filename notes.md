@@ -23,3 +23,4 @@ add pallet-nicks under [dependencies]
 under [features]
 in std, 
 * "pallet-nicks/std",
+
