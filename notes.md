@@ -53,3 +53,4 @@ write pallet
 https://www.youtube.com/watch?v=ZPvSND1Mokc
 
 1. go to substrate-node-template
+2. cd pallets/template
