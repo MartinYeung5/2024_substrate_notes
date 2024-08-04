@@ -87,3 +87,7 @@ https://drive.google.com/drive/folders/1fwr6ZpAdlvveXKVLF490CCtvSmj6l2Xt
 testing:
 * ./target/release/node-template --dev
 * https://polkadot.js.org/apps/#/explorer?rpc=ws://localhost:9944
+
+
+tutorial:
+https://substrate-developer-hub.github.io/substrate-how-to-guides/docs/basics/basic-pallet-integration
