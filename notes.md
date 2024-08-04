@@ -57,3 +57,4 @@ https://www.youtube.com/watch?v=ZPvSND1Mokc
 3. delete benchmarking.rs, mock.rs, tests.rs
 4. update lib.rs
 5. update runtime/src/lib.rs
+* ///type WeightInfo = pallet_template::weights::SubstrateWeight<Runtime>;
