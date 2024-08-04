@@ -52,6 +52,8 @@ https://paritytech.github.io/polkadot-sdk/master/polkadot_sdk_docs/guides/your_f
 write pallet
 https://www.youtube.com/watch?v=ZPvSND1Mokc
 (outdated)
+https://www.risein.com/courses/polkadot-fundamentals-and-substrate-development/building-a-custom-pallet
+
 https://drive.google.com/drive/folders/1fwr6ZpAdlvveXKVLF490CCtvSmj6l2Xt
 
 1. go to substrate-node-template
@@ -92,3 +94,14 @@ testing:
 
 tutorial:
 https://substrate-developer-hub.github.io/substrate-how-to-guides/docs/basics/basic-pallet-integration
+
+# add a pallet (tutorial)
+https://learnblockchain.cn/docs/substrate/docs/tutorials/add-a-pallet-to-your-runtime/
+
+# pallet - simple-crowdfund
+https://github.com/substrate-developer-hub/substrate-how-to-guides/tree/main/example-code/template-node/pallets/simple-crowdfund
+
+# pallet - Custom pallets
+https://docs.substrate.io/build/custom-pallets/
+
+what is "pub trait Config: frame_system::Config" ?
