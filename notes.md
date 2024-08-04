@@ -43,3 +43,4 @@ https://paritytech.github.io/polkadot-sdk/master/frame_support/macro.construct_r
 
 * update runtime/src/lib.rs
 
+## Create a new pallet
