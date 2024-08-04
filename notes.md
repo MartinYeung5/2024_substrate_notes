@@ -79,4 +79,4 @@ remove line "#[pallet::generate_store(pub(super) trait Store)]"
 error:
   error[E0220]: associated type `BlockNumber` not found for `T`
 solution:
-change to BlockNumberFor<T>
+change T::BlockNumberFor to BlockNumberFor<T>
