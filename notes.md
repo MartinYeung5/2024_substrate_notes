@@ -48,3 +48,4 @@ https://docs.substrate.io/tutorials/collectibles-workshop/03-create-pallet/
 
 write pallet
 https://paritytech.github.io/polkadot-sdk/master/polkadot_sdk_docs/guides/your_first_pallet/index.html
+
