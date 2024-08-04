@@ -59,3 +59,19 @@ https://drive.google.com/drive/folders/1fwr6ZpAdlvveXKVLF490CCtvSmj6l2Xt
 4. update lib.rs
 5. update runtime/src/lib.rs
 * ///type WeightInfo = pallet_template::weights::SubstrateWeight<Runtime>;
+6. cargo check -p node-template-runtime --release
+
+error:
+  error: expected `without_storage_info` or `storage_version`
+    --> /home/yeung/substrate-node-template/pallets/template/src/lib.rs:12:13
+     |
+  12 |   #[pallet::generate_store(pub(super) trait Store)]
+     |             ^^^^^^^^^^^^^^
+
+  error[E0432]: unresolved import `pallet`
+   --> /home/yeung/substrate-node-template/pallets/template/src/lib.rs:3:9
+    |
+  3 | pub use pallet::*;
+    |         ^^^^^^ help: a similar path exists: `frame_system::pallet`
+
+    
