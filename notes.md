@@ -54,3 +54,4 @@ https://www.youtube.com/watch?v=ZPvSND1Mokc
 
 1. go to substrate-node-template
 2. cd pallets/template
+3. delete benchmarking.rs, mock.rs, tests.rs
