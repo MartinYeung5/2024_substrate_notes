@@ -13,6 +13,9 @@ git clone https://github.com/substrate-developer-hub/substrate-front-end-templat
 7. yarn install
 8. yarn start
 
+## Nicks example (outdated)
+https://blog.csdn.net/yzpbright/article/details/118787445
+
 ## Add a pallet to the runtime
 * https://docs.substrate.io/tutorials/build-application-logic/add-a-pallet/
 clone 1 repo
