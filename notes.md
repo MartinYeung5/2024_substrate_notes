@@ -56,3 +56,4 @@ https://www.youtube.com/watch?v=ZPvSND1Mokc
 2. cd pallets/template
 3. delete benchmarking.rs, mock.rs, tests.rs
 4. update lib.rs
+5. update runtime/src/lib.rs
