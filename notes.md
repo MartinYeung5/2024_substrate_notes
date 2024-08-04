@@ -51,3 +51,4 @@ https://paritytech.github.io/polkadot-sdk/master/polkadot_sdk_docs/guides/your_f
 
 write pallet
 https://www.youtube.com/watch?v=ZPvSND1Mokc
+
