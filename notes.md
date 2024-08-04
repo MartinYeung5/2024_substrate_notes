@@ -73,5 +73,10 @@ error:
     |
   3 | pub use pallet::*;
     |         ^^^^^^ help: a similar path exists: `frame_system::pallet`
+solution:
+remove line "#[pallet::generate_store(pub(super) trait Store)]"
 
-    
+error:
+  error[E0220]: associated type `BlockNumber` not found for `T`
+solution:
+change to BlockNumberFor
