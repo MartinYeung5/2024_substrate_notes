@@ -80,3 +80,10 @@ error:
   error[E0220]: associated type `BlockNumber` not found for `T`
 solution:
 change T::BlockNumberFor to BlockNumberFor<T>
+reference:
+https://github.com/paritytech/polkadot-sdk/commit/5e7b27e98c0b9dacd4b6f0724fd6335106d94101
+https://drive.google.com/drive/folders/1fwr6ZpAdlvveXKVLF490CCtvSmj6l2Xt
+
+testing:
+* ./target/release/node-template --dev
+* https://polkadot.js.org/apps/#/explorer?rpc=ws://localhost:9944
